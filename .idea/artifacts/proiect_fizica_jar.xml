@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="proiect_fizica:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/proiect_fizica_jar</output-path>
+    <root id="archive" name="proiect_fizica.jar">
+      <element id="module-output" name="proiect_fizica" />
+    </root>
+  </artifact>
+</component>

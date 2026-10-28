@@ -12,7 +12,7 @@ La apăsarea butonului **Test**, te redirecționează la o pagină nouă unde se
 ### Rularea ultimei versiuni finale:  
  * se descarcă <a href="https://github.com/four436/proiectFizica/releases/tag/release">Latest release</a>
  * se descarcă minim versiunea **Java 17**
- * **Atenție!!!** programul nefiind semnat trebuie oprit **Real-time protecction**
+ * **Atenție!!!** programul nefiind semnat trebuie oprit **Real-time protection**
  * se pornește programul **ElementeDeFizicaCuantica.exe**
 ### rularea source code-ului
  * se descarcă sau clonează <a href="https://github.com/four436/proiectFizica">Repositorie-ul</a>
